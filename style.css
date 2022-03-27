@@ -93,10 +93,6 @@ input[type="text"] {
     opacity: 1;
 }
 
-.meal:active .meal-info{
-    opacity: 1;
-}
-
 .single-meal{
     display: flex;
     flex-flow: column;
